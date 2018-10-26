@@ -14,4 +14,4 @@ You will create two documents describing the design of your project. These docum
   - Interactions to accomplish use cases. Describe how the above software components interact to accomplish at least one of your use cases.
   - Preliminary plan. A list of tasks in priority order.
   
- **Rubric**. Between the two documents, there are 7 sections. You will receive up to one point for each section.
+ **Grading Rubric**. Between the two documents, there are 7 sections. You will receive up to one point for each section.
